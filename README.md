@@ -68,12 +68,13 @@ Recommended: `g++` for Unix/Linux, `MinGW` for Windows, or `Xcode` for macOS.
  3. Search 
  4. Traverse (Inorder, Preorder, Postorder) 
  5. Exit 
- >Enter your choice: 1 
-  Enter value to insert: 50 
-  BST after insertion: 50 
-  Enter your choice: 1 
-  Enter value to insert: 30 
-  BST after insertion: 50 / 30  ... (continue with other operations as needed) 
+ >Enter your choice: 1
+>Enter value to insert: 50
+>BST after insertion: 50
+>Enter your choice: 1
+>Enter value to insert: 30
+>BST after insertion: 50 / 30
+... (continue with other operations as needed) 
 
 ## Conclusion
 
